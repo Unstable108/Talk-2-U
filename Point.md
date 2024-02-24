@@ -1,3 +1,5 @@
+## this contain some info
+
 Codemon is used for so, that we don't have start the app everyime we make chnage
 crtl+space, can add the export system
 react-router-dom -> to achive multiple pages
