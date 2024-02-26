@@ -27,3 +27,5 @@ npm i jsonwebtoken -> JWT,
 npm i bcryptjs
 
 cloudinary - to store the picture
+
+to pop an error, use toast from chakra-UI

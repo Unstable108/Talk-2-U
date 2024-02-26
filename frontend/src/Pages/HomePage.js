@@ -14,7 +14,7 @@ import SignUp from "../components/Authentication/SignUp";
 
 function HomePage() {
   return (
-    <Container maxWidth="xl" CenterContent>
+    <Container maxWidth="xl" style={{ textAlign: "center" }}>
       <Box
         d="flex"
         justifyContent="center"
